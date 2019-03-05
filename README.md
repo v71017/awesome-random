@@ -133,6 +133,8 @@ Firefox has a great set of first issues to start learning how to work with their
 
 ## Networking
 
+## Logging
+
 ## Decentralized Systems
 
 ## Miscellaneous
